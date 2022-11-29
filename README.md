@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Murate08
+- 👋 Hi, I’m Ayad Murate Carlos Ossaile
 - 👀 I’m interested in new opportunities
 - 🌱 I’m currently learning Tailwind CSS
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
